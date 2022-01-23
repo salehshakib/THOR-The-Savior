@@ -16,7 +16,7 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
 </p>
 
  
- #Features:
+ # Features:
  
  -	Awesome gaming UI
  -	The story of the game is narrated by a video
