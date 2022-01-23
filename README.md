@@ -3,8 +3,7 @@
 A simple Role-playing game (RPG) where Marvel’s character Thor has to go through some obstacles and the last boss Loki to save his girlfriend Jane.
 </p>
 
-## Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a>
-<h2 style="border-bottom: none;">Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a></h2>
+### Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a>
 
 ## Programming Languages Used:
 <p align="left">
