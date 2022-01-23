@@ -18,7 +18,7 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
 ## IDE Used:
 <p align="left">
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/56752216/150677133-53fb23e1-0ec4-4427-9f74-c07ea0967cdd.svg" alt="visual studio 2010" width="100" height="50"/> 
+  <img src="https://user-images.githubusercontent.com/56752216/150677341-f9bb8c7d-5dcd-4225-bdb8-7a70d64c30b0.svg" alt="visual studio 2010" width="100" height="50"/> 
  </a>
 </p>
  
