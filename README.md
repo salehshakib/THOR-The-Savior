@@ -15,6 +15,7 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
  </a>
 </p>
 
+![pngegg](https://user-images.githubusercontent.com/56752216/150677019-0f029ee9-bd73-4e77-873c-598321cfa437.png)
  
  # Features:
  
