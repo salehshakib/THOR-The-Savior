@@ -4,6 +4,7 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
 </p>
 
 ## Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a>
+<h2 style="border-bottom: none">Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a></h2>
 
 ## Programming Languages Used:
 <p align="left">
