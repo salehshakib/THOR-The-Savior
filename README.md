@@ -3,9 +3,9 @@
 A simple Role-playing game (RPG) where Marvel’s character Thor has to go through some obstacles and the last boss Loki to save his girlfriend Jane.
 </p>
 
-# Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a>
+## Link to watch <a href="https://www.youtube.com/watch?v=I1_PjKfWPv0">**Gameplay**</a>
 
-# Programming Languages Used:
+## Programming Languages Used:
 <p align="left">
  </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -15,14 +15,14 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
  </a>
 </p>
 
-# IDE Used:
+## IDE Used:
 <p align="left">
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/56752216/150677133-53fb23e1-0ec4-4427-9f74-c07ea0967cdd.svg" alt="visual studio 2010" width="100" height="50"/> 
  </a>
 </p>
  
- # Features:
+ ## Features:
  
  -	Awesome gaming UI
  -	The story of the game is narrated by a video
