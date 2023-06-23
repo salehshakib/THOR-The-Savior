@@ -32,3 +32,4 @@ A simple Role-playing game (RPG) where Marvel’s character Thor has to go throu
  -	Keys can be found in a box which is generated randomly 
  -	Last boss Loki can clone himself and can alter his position into any of the clones
 
+"# THOR-The-Savior" 
